@@ -1,5 +1,12 @@
 # plan-progress
 
+> **Moved.** plan-progress now lives in [liveweird/claude-mods](https://github.com/liveweird/claude-mods) (folder
+> `plan-progress/`), together with the other mods. This repository is archived. Install from there:
+>
+> ```
+> /plugin install plan-progress --marketplace liveweird/claude-mods
+> ```
+
 A Claude Code mod that shows the plan Claude is executing as a live timeline above the prompt:
 
 ```
